@@ -1,0 +1,8 @@
+hello everyone,
+
+My name is Abhishek Jain. Currently working as an intern in Coding Ninjas. Side by side learning different javascript frameworks.
+In love with reactjs, nodejs, express. Would love to work on electron, react, redux to widen my scope.
+
+A small project suggestion by me:- 
+We can start by developing a plagiarism checker by using any of the rest-api (there are no such app written in javascript on git);
+or a simple desktop app by electron or a website by react---- A tool for revision for software developers where we can give them tasks according to a fibonacci sequence.
